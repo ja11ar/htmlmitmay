@@ -1,0 +1,66 @@
+ul{
+    list-style-type: none;
+    background-color: lightcoral;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 15px;
+    display: block;
+    color: aliceblue;
+    font-family: cursive;
+    font-size: x-large;
+}
+li a:hover{
+    background-color: lightseagreen;
+}
+.fruits{
+    background-color: green;
+    border: 2px dotted cornflowerblue;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+.cars{
+    background-color: crimson;
+    border: 5px solid white;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    font-family: FreeSans;
+}
+.FRUITS{
+    background-color: tomato;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: Jamrul;
+}
+#gari{
+    background-color: cornflowerblue;
+    border: 2px dotted black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: Jamrul;
+}
+#matunda{
+    background-color: lightcoral;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: Jamrul;
+}
+#pet{
+    background-color: goldenrod;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: Rachana;
+}
